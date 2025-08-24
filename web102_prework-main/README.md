@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 
 * [X] List anything else that you can get done to improve the app functionality!
 
-Added a simple nav bar on the top with a "Pledge" button so users can click on the game they wish to fund. 
+Added a simple nav bar on the top with a "Pledge" button so users can click on the game they wish to fund.
 
 ## Video Walkthrough
 
